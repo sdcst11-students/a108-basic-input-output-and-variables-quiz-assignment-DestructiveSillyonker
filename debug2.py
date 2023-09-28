@@ -2,6 +2,5 @@
 """
 Debug this program so that it runs
 """
-
-    2 = x
+x = 2
 print(x)
